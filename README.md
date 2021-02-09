@@ -4,7 +4,7 @@ Some daily practise and playing with codes
 ##Created by WayneZ AKA JSNoob
 Just came back from my home country due to my family duties:disappointed_relieved:.      
 It's time to get some `codes refresh` and `warm ups`:fire:               
-If someone wants to check my work, please simply swap the branch -button is above the JavaScriptN0ob Avatar
+**If someone wants to check my work, please simply swap the branch - button is above the JavaScriptN0ob Avatar**
 
 
 Gona push some:
